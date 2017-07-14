@@ -1,0 +1,22 @@
+{
+  "name": "dc-circulator-echo",
+  "version": "1.0.0",
+  "description": "Provides a very simple echo skill for the next circulator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mdelcambre/dc-circulator-echo.git"
+  },
+  "author": "mdelcambre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdelcambre/dc-circulator-echo/issues"
+  },
+  "homepage": "https://github.com/mdelcambre/dc-circulator-echo#README.md",
+  "dependencies": {
+    "request": "^2.74.0"
+  }
+}
